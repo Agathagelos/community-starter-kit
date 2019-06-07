@@ -1,10 +1,9 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+welcome   
 
 ## welcome  
-
-FEATURES PLACEHOLDER
+learn
 
 ## learn
 
